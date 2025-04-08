@@ -1,0 +1,7 @@
+package git_course;
+
+public class Java {
+    public static void main(String[] args) {
+        System.out.println("Hello from git course!");
+    }
+}
