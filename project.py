@@ -1,3 +1,3 @@
 print('Projects files are modified.')
-int=int(input("enter any number interger: ")
+name=str(input("enter your name : ")
 
