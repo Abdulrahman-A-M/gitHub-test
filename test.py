@@ -5,7 +5,8 @@ for i in range(1,11):
     print('Abdulrahman Ahmed Muhammed Alhelali.')
 
 
-
+# From my point the best language programming is PYTHON you with me?
+print('My frind is smart!')
 
 print('Hello Git how you to fealing today!')
 
